@@ -1,7 +1,7 @@
 
-## 📊 Task 4 – Dashboard Design | Data Analyst Internship
+## 📊 Task 3 – Dashboard Design | Data Analyst Internship
 
-This repository contains my submission for **Task 4: Dashboard Design** as part of the **Data Analyst Internship at Elevate Labs**.
+This repository contains my submission for **Task 3: Dashboard Design** as part of the **Data Analyst Internship at Elevate Labs**.
 
 ---
 
